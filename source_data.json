@@ -1,0 +1,1236 @@
+{
+  "meta": {
+    "title": "Integrated Project Intelligence Management 2570",
+    "fiscalYear": 2570,
+    "generated": "2026-10-26",
+    "sourceNotes": [
+      "ภาพ YEAR ACTION PLAN 2570 (35 ภารกิจ)",
+      "แผนจัดซื้อจัดจ้างปีงบประมาณ 2570 (33 รายการ รวม 110,502,300 บาท)"
+    ],
+    "authoritativeActualData": false
+  },
+  "months": [
+    "2569-10",
+    "2569-11",
+    "2569-12",
+    "2570-01",
+    "2570-02",
+    "2570-03",
+    "2570-04",
+    "2570-05",
+    "2570-06",
+    "2570-07",
+    "2570-08",
+    "2570-09"
+  ],
+  "workstreams": [
+    {
+      "id": "I01",
+      "group": "ITCO",
+      "name": "MA · บำรุงรักษาระบบ",
+      "plan": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I02",
+      "group": "ITCO",
+      "name": "ISO/IEC 27001",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I03",
+      "group": "ITCO",
+      "name": "RISK · ความเสี่ยง ICT",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I04",
+      "group": "ITCO",
+      "name": "IT Plan · แผนดิจิทัล",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I05",
+      "group": "ITCO",
+      "name": "ERP",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I06",
+      "group": "ITCO",
+      "name": "LAW Platform",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I07",
+      "group": "ITCO",
+      "name": "Education Platform",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I08",
+      "group": "ITCO",
+      "name": "TOURIST 1 · กีฬาอาเซียน",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I09",
+      "group": "ITCO",
+      "name": "TOURIST 2 · ประเมินแหล่งท่องเที่ยว",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I10",
+      "group": "ITCO",
+      "name": "TOURIST 3 · นักท่องเที่ยวปลอดภัย",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I11",
+      "group": "ITCO",
+      "name": "Satellite · สัญญาณดาวเทียม",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I12",
+      "group": "ITCO",
+      "name": "Vehicle · รถบัญชาการ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I13",
+      "group": "ITCO",
+      "name": "HW · อุปกรณ์สื่อสาร",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I14",
+      "group": "ITCO",
+      "name": "Project · บริหารโครงการ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I15",
+      "group": "ITCO",
+      "name": "KPI · ติดตามตัวชี้วัด",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I16",
+      "group": "ITCO",
+      "name": "Budget · งบประมาณ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I17",
+      "group": "ITCO",
+      "name": "สนับสนุนและฝึกอบรมภายใน",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I18",
+      "group": "ITCO",
+      "name": "เอกสารดิจิทัลทั้งสองกลุ่มงาน",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I19",
+      "group": "ITCO",
+      "name": "Digital Trunk ความเชื่อมั่นและภัยพิบัติ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I20",
+      "group": "ITCO",
+      "name": "คณะกรรมการ ICT / CIO",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I21",
+      "group": "ITCO",
+      "name": "อนุกรรมการ Cybersecurity",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I22",
+      "group": "ITCO",
+      "name": "อนุกรรมการดิจิทัลอื่น",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "I23",
+      "group": "ITCO",
+      "name": "องค์ความรู้ ICT ภายในและภายนอก",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N01",
+      "group": "NDEMS",
+      "name": "RNIS · รับแจ้งเหตุดิจิทัล",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N02",
+      "group": "NDEMS",
+      "name": "EMS Portal · สั่งการ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N03",
+      "group": "NDEMS",
+      "name": "E-Finance · เบิกจ่าย",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N04",
+      "group": "NDEMS",
+      "name": "Account Management · สิทธิ์",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N05",
+      "group": "NDEMS",
+      "name": "MIS · หน่วยและการติดตาม",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N06",
+      "group": "NDEMS",
+      "name": "AML · พิกัดอัตโนมัติ 1669",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N07",
+      "group": "NDEMS",
+      "name": "Super App · ฉุกเฉินพลัส",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N08",
+      "group": "NDEMS",
+      "name": "ทะเบียนคน รถ หน่วย และสิทธิ์",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N09",
+      "group": "NDEMS",
+      "name": "สนับสนุน NDEMS เกือบ 24 ชม.",
+      "plan": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N10",
+      "group": "NDEMS",
+      "name": "อนุกรรมการธรรมาภิบาลข้อมูล",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N11",
+      "group": "NDEMS",
+      "name": "ถ่ายทอดความรู้ร่วมภาคีเครือข่าย",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    },
+    {
+      "id": "N12",
+      "group": "NDEMS",
+      "name": "ออกแบบ พัฒนา และจัดทำรายงานข้อมูลดิจิทัลเพื่อให้บริการ",
+      "plan": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "source": "ภาพ YEAR ACTION PLAN 2570"
+    }
+  ],
+  "procurements": [
+    {
+      "id": "P01",
+      "ordinal": 1,
+      "category": "ลงทุน",
+      "name": "พัฒนาแพลตฟอร์มดิจิทัลการแพทย์ฉุกเฉินแห่งชาติ (NDEMS)",
+      "plannedAmount": 6939000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P02",
+      "ordinal": 2,
+      "category": "ลงทุน",
+      "name": "จัดหาระบบระบุและติดตามครุภัณฑ์อัตโนมัติด้วยป้ายอิเล็กทรอนิกส์ เชื่อมระบบบริหารทรัพยากรองค์กร (RFID สำหรับครุภัณฑ์ สพฉ. เชื่อมต่อ ERP)",
+      "plannedAmount": 4250000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2569-12",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P03",
+      "ordinal": 3,
+      "category": "ลงทุน",
+      "name": "จัดซื้ออุปกรณ์กระจายสัญญาณไร้สาย (Access Point) แบบที่ 2",
+      "plannedAmount": 440000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2569-12",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P04",
+      "ordinal": 4,
+      "category": "ลงทุน",
+      "name": "แบตเตอรี่พร้อมชุด Capacitor สำหรับระบบสำรองไฟฟ้าอัตโนมัติ Data Center",
+      "plannedAmount": 1000000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P05",
+      "ordinal": 5,
+      "category": "ลงทุน",
+      "name": "จัดหาระบบวิทยุดิจิทัลทรั้งค์เรดิโอ (DTRS) สำหรับสถานีแม่ข่ายศูนย์รับแจ้งเหตุและสั่งการประจำจังหวัด",
+      "plannedAmount": 13965000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P06",
+      "ordinal": 6,
+      "category": "ลงทุน",
+      "name": "จัดหาระบบสื่อสารเพื่อการเฝ้าระวังและประสานการช่วยเหลือเหตุฉุกเฉินทางทะเลสำหรับภารกิจด้านการแพทย์ฉุกเฉิน",
+      "plannedAmount": 5400000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P07",
+      "ordinal": 7,
+      "category": "ลงทุน",
+      "name": "จัดหาระบบบูรณาการข่ายสื่อสารดาวเทียมสำหรับรถแม่ข่ายส่วนหน้าเพื่อรองรับภารกิจด้านการแพทย์ฉุกเฉินในภาวะสาธารณภัย",
+      "plannedAmount": 7000000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P08",
+      "ordinal": 8,
+      "category": "ลงทุน",
+      "name": "จัดหาระบบสื่อสารดาวเทียม C-Band แบบบูรณาการเพื่อรองรับสถานการณ์ฉุกเฉิน",
+      "plannedAmount": 4250000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P09",
+      "ordinal": 9,
+      "category": "ลงทุน",
+      "name": "พัฒนาระบบนิเวศดิจิทัลการแพทย์ฉุกเฉิน (EMS Smart Ecosystem) ด้วยปัญญาประดิษฐ์และฐานข้อมูลกลางด้านการแพทย์ฉุกเฉินแห่งชาติบนคลาวด์กลางภาครัฐ",
+      "plannedAmount": 24688300,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P10",
+      "ordinal": 10,
+      "category": "ดำเนินงาน",
+      "name": "พัฒนาระบบเทคโนโลยีดิจิทัลเพื่อพัฒนาด้านการแพทย์ฉุกเฉิน (คลาวด์)",
+      "plannedAmount": 30816000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P11",
+      "ordinal": 11,
+      "category": "ดำเนินงาน",
+      "name": "ค่าบริการและบริหารจัดการระบบเบอร์ 1669",
+      "plannedAmount": 1600000,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P12",
+      "ordinal": 12,
+      "category": "ดำเนินงาน",
+      "name": "ความปลอดภัยของระบบตามมาตรฐาน ISO 27001",
+      "plannedAmount": 750000,
+      "procureMonth": "2570-01",
+      "requiredMonth": "2570-02",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P13",
+      "ordinal": 13,
+      "category": "ดำเนินงาน",
+      "name": "ค่าบำรุงรักษาระบบ National Digital EMS Platform (NDEMS)",
+      "plannedAmount": 1260000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P14",
+      "ordinal": 14,
+      "category": "ดำเนินงาน",
+      "name": "จ้างผลิตสื่อประชาสัมพันธ์เพื่อสร้างการรับรู้และส่งเสริมการเข้าถึงแพลตฟอร์ม NDEMS",
+      "plannedAmount": 460000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": false,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P15",
+      "ordinal": 15,
+      "category": "ดำเนินงาน",
+      "name": "จ้างจัดให้ความรู้เชิงปฏิบัติการเพื่อพัฒนาทักษะการใช้แพลตฟอร์ม NDEMS และขับเคลื่อนการปฏิบัติงานสู่ระบบดิจิทัล",
+      "plannedAmount": 480000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": false,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 1"
+    },
+    {
+      "id": "P16",
+      "ordinal": 16,
+      "category": "ดำเนินงาน",
+      "name": "จ้างศึกษาความจำเป็นเชิงนโยบาย ประเมินและเพิ่มความคุ้มค่าของแพลตฟอร์ม NDEMS",
+      "plannedAmount": 1000000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P17",
+      "ordinal": 17,
+      "category": "ดำเนินงาน",
+      "name": "จ้างเหมาบริการสนับสนุนดิจิทัลแพลตฟอร์ม National EMS Digital Platform (NDEMS) (2 คน)",
+      "plannedAmount": 432000,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P18",
+      "ordinal": 18,
+      "category": "ดำเนินงาน",
+      "name": "ยกระดับศูนย์รับแจ้งเหตุและสั่งการเป็นดิจิทัลทั่วประเทศ",
+      "plannedAmount": 461960,
+      "procureMonth": "2569-10",
+      "requiredMonth": "2569-11",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P19",
+      "ordinal": 19,
+      "category": "ดำเนินงาน",
+      "name": "เช่าใช้ระบบป้องกันไวรัสและเครื่องคอมพิวเตอร์แม่ข่ายพร้อมลิขสิทธิ์",
+      "plannedAmount": 500000,
+      "procureMonth": "2569-10",
+      "requiredMonth": "2569-11",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P20",
+      "ordinal": 20,
+      "category": "ดำเนินงาน",
+      "name": "จัดหาอุปกรณ์และระบบความปลอดภัยกับระบบเครือข่ายสารสนเทศ (Firewall)",
+      "plannedAmount": 1300000,
+      "procureMonth": "2570-01",
+      "requiredMonth": "2570-02",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P21",
+      "ordinal": 21,
+      "category": "ดำเนินงาน",
+      "name": "ค่าเช่าสายสื่อสารอินเทอร์เน็ตสาย 1",
+      "plannedAmount": 243960,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P22",
+      "ordinal": 22,
+      "category": "ดำเนินงาน",
+      "name": "ค่าเช่าสายสื่อสารอินเทอร์เน็ตสาย 2",
+      "plannedAmount": 243960,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P23",
+      "ordinal": 23,
+      "category": "ดำเนินงาน",
+      "name": "จ้างผู้ดูแลระบบโปรแกรมสารสนเทศและคอมพิวเตอร์ IT Help Desk",
+      "plannedAmount": 288000,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P24",
+      "ordinal": 24,
+      "category": "ดำเนินงาน",
+      "name": "ค่าเช่าโปรแกรมสำหรับการประชุมระยะไกล MS Teams / Zoom",
+      "plannedAmount": 70000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2569-12",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P25",
+      "ordinal": 25,
+      "category": "ดำเนินงาน",
+      "name": "เช่าใช้งานระบบสารสนเทศของ สพฉ. (Tableau, Canva, Freepik, CapCut Pro, AI สพฉ. และระบบเงินเดือน)",
+      "plannedAmount": 890000,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P26",
+      "ordinal": 26,
+      "category": "ดำเนินงาน",
+      "name": "บำรุงรักษาตู้สาขาโทรศัพท์ของ สพฉ. (โทรศัพท์พื้นฐานภายใน)",
+      "plannedAmount": 99510,
+      "procureMonth": "2569-09",
+      "requiredMonth": "2569-10",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P27",
+      "ordinal": 27,
+      "category": "ดำเนินงาน",
+      "name": "บำรุงรักษาระบบโทรศัพท์ UCEP Call Center",
+      "plannedAmount": 250000,
+      "procureMonth": "2570-01",
+      "requiredMonth": "2570-02",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P28",
+      "ordinal": 28,
+      "category": "ดำเนินงาน",
+      "name": "ค่าเช่าโปรแกรม Adobe",
+      "plannedAmount": 200000,
+      "procureMonth": "2570-07",
+      "requiredMonth": "2570-08",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P29",
+      "ordinal": 29,
+      "category": "ดำเนินงาน",
+      "name": "ค่าธรรมเนียมวิทยุ กสทช. และบำรุงรักษาระบบสื่อสารและรถสื่อสาร",
+      "plannedAmount": 78570,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P30",
+      "ordinal": 30,
+      "category": "ดำเนินงาน",
+      "name": "ค่าลิขสิทธิ์ความน่าเชื่อถือและความปลอดภัยทางอิเล็กทรอนิกส์ Secure Socket Layer (SSL)",
+      "plannedAmount": 40000,
+      "procureMonth": "2570-03",
+      "requiredMonth": "2570-04",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P31",
+      "ordinal": 31,
+      "category": "ดำเนินงาน",
+      "name": "บำรุงรักษาระบบศูนย์คอมพิวเตอร์ Data Center สพฉ.",
+      "plannedAmount": 400000,
+      "procureMonth": "2570-01",
+      "requiredMonth": "2570-02",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P32",
+      "ordinal": 32,
+      "category": "ดำเนินงาน",
+      "name": "บำรุงรักษาเครื่องแม่ข่ายและระบบเครือข่ายของ สพฉ.",
+      "plannedAmount": 206040,
+      "procureMonth": "2569-12",
+      "requiredMonth": "2570-01",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    },
+    {
+      "id": "P33",
+      "ordinal": 33,
+      "category": "ดำเนินงาน",
+      "name": "บำรุงรักษาเว็บไซต์ของ สพฉ. (เว็บไซต์ สพฉ. และเว็บไซต์วิจัย)",
+      "plannedAmount": 500000,
+      "procureMonth": "2569-11",
+      "requiredMonth": "2569-12",
+      "torDraft": true,
+      "source": "แผนจัดซื้อจัดจ้าง 2570 หน้า 2"
+    }
+  ],
+  "proposedLinks": {
+    "P01": [
+      "N01",
+      "N02",
+      "N03",
+      "N04",
+      "N05",
+      "N06",
+      "N07"
+    ],
+    "P02": [
+      "I05"
+    ],
+    "P03": [
+      "I13"
+    ],
+    "P04": [
+      "I01"
+    ],
+    "P05": [
+      "I19"
+    ],
+    "P06": [
+      "I13"
+    ],
+    "P07": [
+      "I11",
+      "I12"
+    ],
+    "P08": [
+      "I11"
+    ],
+    "P09": [
+      "N12",
+      "N05"
+    ],
+    "P10": [
+      "I01",
+      "N09"
+    ],
+    "P11": [
+      "N01"
+    ],
+    "P12": [
+      "I02"
+    ],
+    "P13": [
+      "N09"
+    ],
+    "P14": [
+      "N11"
+    ],
+    "P15": [
+      "N11"
+    ],
+    "P16": [
+      "N12"
+    ],
+    "P17": [
+      "N09"
+    ],
+    "P18": [
+      "N01"
+    ],
+    "P19": [
+      "I21"
+    ],
+    "P20": [
+      "I21"
+    ],
+    "P21": [
+      "I01"
+    ],
+    "P22": [
+      "I01"
+    ],
+    "P23": [
+      "I17"
+    ],
+    "P24": [
+      "I17"
+    ],
+    "P25": [
+      "I17"
+    ],
+    "P26": [
+      "I01"
+    ],
+    "P27": [
+      "I01"
+    ],
+    "P28": [
+      "I17"
+    ],
+    "P29": [
+      "I13"
+    ],
+    "P30": [
+      "I21"
+    ],
+    "P31": [
+      "I01"
+    ],
+    "P32": [
+      "I01"
+    ],
+    "P33": [
+      "I01"
+    ]
+  },
+  "roadmap": [
+    {
+      "q": "Q1",
+      "title": "ทบทวนแผนและเตรียมความพร้อม",
+      "detail": "ทบทวนแผน กำกับมาตรฐาน เตรียมทรัพยากร โครงสร้างพื้นฐาน และสื่อสารร่วมกัน"
+    },
+    {
+      "q": "Q2",
+      "title": "พัฒนา เชื่อมต่อ และทดสอบ",
+      "detail": "พัฒนาระบบและฟังก์ชันสำคัญ เชื่อมต่อระบบและข้อมูล ทดสอบการใช้งาน"
+    },
+    {
+      "q": "Q3",
+      "title": "นำร่อง ขยายผล และติดตามคุณภาพ",
+      "detail": "นำร่องในพื้นที่ ขยายผล ติดตามคุณภาพและปรับปรุงจากการใช้งานจริง"
+    },
+    {
+      "q": "Q4",
+      "title": "ประเมินผล ส่งมอบ และวางแผนถัดไป",
+      "detail": "ประเมินผล สรุปบทเรียน ส่งมอบงานและวางแผนการพัฒนาต่อเนื่อง"
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "K01",
+      "name": "ขยายการให้บริการ RNIS เพิ่มอีก 29 จังหวัด",
+      "workstreamId": "N01",
+      "unit": "จังหวัด",
+      "target": 29,
+      "due": "2570-09",
+      "source": "ข้อความเป้าหมายในภาพ YEAR ACTION PLAN 2570"
+    }
+  ]
+}
